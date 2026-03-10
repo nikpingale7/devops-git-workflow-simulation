@@ -8,6 +8,7 @@ The goal of this project is to simulate collaboration across multiple Linux serv
 
 ## Architecture
 
+```
 Mumbai Server (Developer)
         |
         v
@@ -15,6 +16,7 @@ Mumbai Server (Developer)
         ^
         |
 Singapore Server (Operations)
+```
 
 ## Features Implemented
 
