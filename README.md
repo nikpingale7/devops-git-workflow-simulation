@@ -27,6 +27,7 @@ Singapore Server (Operations)
 
 ## Project Structure
 
+'''
 devops-git-workflow-simulation
 │
 ├── scripts
@@ -37,6 +38,7 @@ devops-git-workflow-simulation
 │
 └── docs
     └── project-info.md
+'''
 
 ## Git Commands Practiced
 
